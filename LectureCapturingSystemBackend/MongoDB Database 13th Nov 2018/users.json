@@ -1,0 +1,75 @@
+{ 
+    "_id" : ObjectId("5b96776ac44c082548d3820b"), 
+    "created" : ISODate("2018-09-10T13:43:51.044+0000"), 
+    "images" : [
+
+    ], 
+    "username" : "admin", 
+    "password" : "$2b$10$h1lCOvXXV3WeCn6hjw3d6.4BNZj1z9X4FZBGhFOesqVoGgrAq23RK", 
+    "usertype" : "admin", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b9afabdbd089401bc93847c"), 
+    "created" : ISODate("2018-09-13T23:55:15.990+0000"), 
+    "images" : [
+        "2018-06-30-140218.jpg", 
+        "2018-06-30-140225.jpg", 
+        "2018-06-30-140234.jpg", 
+        "2018-06-30-140240.jpg", 
+        "2018-06-30-140253.jpg", 
+        "2018-06-30-140314.jpg"
+    ], 
+    "username" : "ashen", 
+    "password" : "$2b$10$8ltWico8a3J7QClLKOvqs.Yr5x4N9t3P/ge09TDGd/u/GZjmAMcmK", 
+    "usertype" : "admin", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b9afb38bd089401bc93847d"), 
+    "created" : ISODate("2018-09-13T23:55:15.990+0000"), 
+    "images" : [
+        "2018-06-30-135102.jpg", 
+        "2018-06-30-135109.jpg", 
+        "2018-06-30-135122.jpg", 
+        "2018-06-30-135130.jpg", 
+        "2018-06-30-135135.jpg"
+    ], 
+    "username" : "vimukthi", 
+    "password" : "vimukthi", 
+    "usertype" : "lecturer", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5be11beb42d160039cf77272"), 
+    "created" : ISODate("2018-11-06T04:41:56.253+0000"), 
+    "images" : [
+
+    ], 
+    "username" : "lec", 
+    "password" : "$2b$10$Xjw0GDl0eqVUnp90iwQTB.pF3ecI/f909dD4HNGh2JGEil5Ry9n32", 
+    "usertype" : "lecturer", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5be14e1a904f6c41142ab88d"), 
+    "created" : ISODate("2018-11-06T07:56:44.523+0000"), 
+    "images" : [
+
+    ], 
+    "username" : "student", 
+    "password" : "$2b$10$mCJ12hl4siLHoa28BSXfauhK/JfUqLvj3/b3TwThNepaN2CrSyHd6", 
+    "usertype" : "student", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5be6abf45e9b6e0cb4f6a899"), 
+    "created" : ISODate("2018-11-10T09:52:04.298+0000"), 
+    "images" : [
+
+    ], 
+    "username" : "lahiru", 
+    "password" : "$2b$10$9OFn6RtSdeCPQVjhonVj7eAIY7HOD1hP397lZf.epQM.qDogTO4au", 
+    "usertype" : "admin", 
+    "__v" : NumberInt(0)
+}

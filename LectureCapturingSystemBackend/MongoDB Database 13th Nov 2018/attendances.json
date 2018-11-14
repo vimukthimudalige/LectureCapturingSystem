@@ -1,0 +1,48 @@
+{ 
+    "_id" : ObjectId("5b9b17f354c90228a887633a"), 
+    "created" : ISODate("2018-09-14T02:07:35.204+0000"), 
+    "username" : "ashen", 
+    "usertype" : "admin", 
+    "status" : "Present", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5be6abaf5e9b6e0cb4f6a897"), 
+    "created" : ISODate("2018-11-10T09:52:04.314+0000"), 
+    "username" : "ashen", 
+    "usertype" : "admin", 
+    "status" : "Present", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5be6abbc5e9b6e0cb4f6a898"), 
+    "created" : ISODate("2018-11-10T09:52:04.314+0000"), 
+    "username" : "vimukthi", 
+    "usertype" : "student", 
+    "status" : "Present", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5be6ac1735e069034c830549"), 
+    "created" : ISODate("2018-11-10T09:59:43.710+0000"), 
+    "username" : "lahiru", 
+    "usertype" : "admin", 
+    "status" : "Present", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5bea4aea005d301b28a3df81"), 
+    "created" : ISODate("2018-11-13T03:21:58.104+0000"), 
+    "username" : "ashen", 
+    "usertype" : "admin", 
+    "status" : "Present", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5bea4b00005d301b28a3df82"), 
+    "created" : ISODate("2018-11-13T03:21:58.104+0000"), 
+    "username" : "ashen", 
+    "usertype" : "admin", 
+    "status" : "Present", 
+    "__v" : NumberInt(0)
+}

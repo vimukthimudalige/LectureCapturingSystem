@@ -1,0 +1,145 @@
+{ 
+    "_id" : "FBERmwJDrw-q_LHuTF7gUElgZMORVFd7", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5b9afabdbd089401bc93847c\",\"username\":\"ashen\"}", 
+    "expires" : ISODate("2018-11-17T09:04:27.390+0000")
+}
+{ 
+    "_id" : "y4txf41-3v9uIVU-kkwZgiA92nluy5XC", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5b96776ac44c082548d3820b\",\"username\":\"admin\"}", 
+    "expires" : ISODate("2018-11-17T09:05:22.442+0000")
+}
+{ 
+    "_id" : "tTcOvfosdknJGZQnbrPfZ6oSsiFyPNDF", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5bddaa3debe3d002cc06ae17\",\"username\":\"lec\"}", 
+    "expires" : ISODate("2018-11-17T14:02:51.351+0000")
+}
+{ 
+    "_id" : "4S2nJrsO2PxXiA6XjCyRHIru2julwQCU", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5b96776ac44c082548d3820b\",\"username\":\"admin\"}", 
+    "expires" : ISODate("2018-11-19T18:21:16.448+0000")
+}
+{ 
+    "_id" : "5SE3eODk-edAtgXKdMkiWGV4b1Qyg9JX", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be11beb42d160039cf77272\",\"username\":\"lec\"}", 
+    "expires" : ISODate("2018-11-20T04:43:48.195+0000")
+}
+{ 
+    "_id" : "LnNQ8ObZ1asDGOMC8kMlLFR7aKfqJxMi", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5b96776ac44c082548d3820b\",\"username\":\"admin\"}", 
+    "expires" : ISODate("2018-11-20T09:14:56.634+0000")
+}
+{ 
+    "_id" : "2wbnT2qLCujJ2koXkTaZ4c8fwG8FsX49", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be14e1a904f6c41142ab88d\",\"username\":\"student\"}", 
+    "expires" : ISODate("2018-11-20T13:56:06.057+0000")
+}
+{ 
+    "_id" : "rofzeLwBv8d0J2f7fPMJiZfmTKjFe7dX", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be11beb42d160039cf77272\",\"username\":\"lec\"}", 
+    "expires" : ISODate("2018-11-20T15:55:41.555+0000")
+}
+{ 
+    "_id" : "APKr-hIRYhDo5YBdidxh7P-2uUICELXK", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5b96776ac44c082548d3820b\",\"username\":\"admin\"}", 
+    "expires" : ISODate("2018-11-20T16:55:31.538+0000")
+}
+{ 
+    "_id" : "WZ9OxvWkUmKHhfIO4abcGDa7mh6xFcsB", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5b96776ac44c082548d3820b\",\"username\":\"admin\"}", 
+    "expires" : ISODate("2018-11-21T05:31:12.827+0000")
+}
+{ 
+    "_id" : "AMGFOIXROT84WKJEKnt5s8dVjfcYuzDD", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be11beb42d160039cf77272\",\"username\":\"lec\"}", 
+    "expires" : ISODate("2018-11-21T06:57:08.967+0000")
+}
+{ 
+    "_id" : "bU_JbJBWmSjSOxeUWZ8Rz_BNjufOMmxs", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be14e1a904f6c41142ab88d\",\"username\":\"student\"}", 
+    "expires" : ISODate("2018-11-22T05:30:18.048+0000")
+}
+{ 
+    "_id" : "XnteCt2TpVzKpebgbjrwr1Ru2OxYO383", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be11beb42d160039cf77272\",\"username\":\"lec\"}", 
+    "expires" : ISODate("2018-11-22T10:24:19.408+0000")
+}
+{ 
+    "_id" : "jdQyFRaHzm87GZJ51E0W7HY5jk7mnt4-", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be11beb42d160039cf77272\",\"username\":\"lec\"}", 
+    "expires" : ISODate("2018-11-23T08:57:45.308+0000")
+}
+{ 
+    "_id" : "XTz6HM-G4SxNR9KpP0b4PYyERviJLA5z", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be11beb42d160039cf77272\",\"username\":\"lec\"}", 
+    "expires" : ISODate("2018-11-23T11:30:05.025+0000")
+}
+{ 
+    "_id" : "RtcCvOqgigvACUs2HEz6W2DEJnIevdbl", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be14e1a904f6c41142ab88d\",\"username\":\"student\"}", 
+    "expires" : ISODate("2018-11-24T04:56:56.604+0000")
+}
+{ 
+    "_id" : "uKlJrcZO6dLKu_oAVD70kDDMIFdAy_cP", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5b9afb38bd089401bc93847d\",\"username\":\"vimukthi\"}", 
+    "expires" : ISODate("2018-11-24T11:44:39.639+0000")
+}
+{ 
+    "_id" : "67F6MUFqt1uiUrbPY6KZseWi9ggbhzjb", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5b96776ac44c082548d3820b\",\"username\":\"admin\"}", 
+    "expires" : ISODate("2018-11-24T12:28:08.024+0000")
+}
+{ 
+    "_id" : "-pMEEDHo2qKYTTojy-9H_n8uueCYZV2l", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be11beb42d160039cf77272\",\"username\":\"lec\"}", 
+    "expires" : ISODate("2018-11-25T15:04:50.081+0000")
+}
+{ 
+    "_id" : "jgPcrT91MWIOOGf-9Dbx2g1LAk2XX4is", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be11beb42d160039cf77272\",\"username\":\"lec\"}", 
+    "expires" : ISODate("2018-11-26T08:34:15.187+0000")
+}
+{ 
+    "_id" : "3YW3LsXuHT25MPRMmxf_hNxUgNSO7xPz", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be11beb42d160039cf77272\",\"username\":\"lec\"}", 
+    "expires" : ISODate("2018-11-26T10:45:27.195+0000")
+}
+{ 
+    "_id" : "AeSQTd1sFnQ1RH3mZOTrgj7-UFM4flS7", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be11beb42d160039cf77272\",\"username\":\"lec\"}", 
+    "expires" : ISODate("2018-11-26T11:52:52.467+0000")
+}
+{ 
+    "_id" : "5UetTSKMJoPYYaGWC8ukfNB1z65SCkei", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be11beb42d160039cf77272\",\"username\":\"lec\"}", 
+    "expires" : ISODate("2018-11-26T12:19:40.331+0000")
+}
+{ 
+    "_id" : "SwoqCOJ2PbphlnLxMI_Y9jHyhz7ERpLo", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be14e1a904f6c41142ab88d\",\"username\":\"student\"}", 
+    "expires" : ISODate("2018-11-26T12:20:29.139+0000")
+}
+{ 
+    "_id" : "xy4O3nlYQSJgTXnHUmW0W5mYuQvGwcXO", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be14e1a904f6c41142ab88d\",\"username\":\"student\"}", 
+    "expires" : ISODate("2018-11-26T12:22:43.416+0000")
+}
+{ 
+    "_id" : "nD71wZCwbvRHZeXmX2IIu2Bn59-XVFWB", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be11beb42d160039cf77272\",\"username\":\"lec\"}", 
+    "expires" : ISODate("2018-11-27T04:00:28.445+0000")
+}
+{ 
+    "_id" : "nq3SfKdEXeZszS3iOF4sUZ7oXnU5Kqqz", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be14e1a904f6c41142ab88d\",\"username\":\"student\"}", 
+    "expires" : ISODate("2018-11-27T04:28:29.357+0000")
+}
+{ 
+    "_id" : "mSK-REOMrwYrnC6wJvZ8lqc5fyzbH_xA", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be11beb42d160039cf77272\",\"username\":\"lec\"}", 
+    "expires" : ISODate("2018-11-27T05:05:03.714+0000")
+}
+{ 
+    "_id" : "kLnKEZAVyoIrmlOHllFB_6jgUSv2Pm2V", 
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"userId\":\"5be14e1a904f6c41142ab88d\",\"username\":\"student\"}", 
+    "expires" : ISODate("2018-11-27T06:25:24.230+0000")
+}

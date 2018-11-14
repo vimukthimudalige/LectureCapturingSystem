@@ -1,0 +1,1 @@
+python37 attendanceServer.py

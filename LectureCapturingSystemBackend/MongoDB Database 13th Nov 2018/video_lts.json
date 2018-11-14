@@ -1,0 +1,53 @@
+{ 
+    "_id" : ObjectId("5be967416e6b462e4cbb0958"), 
+    "videoChapters" : [
+
+    ], 
+    "subject" : "lcsnn", 
+    "videoName" : "lcsnn", 
+    "lectureVideo" : "1542022977640_lcs_ip_record_10-12-16_31.mp4", 
+    "dateTime" : "Mon Nov 12 2018 17:12:57 GMT+0530 (Sri Lanka Standard Time)", 
+    "status" : "unprocessed", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5bea53724e082732c026a20b"), 
+    "videoChapters" : [
+        {
+            "_id" : ObjectId("5bea54a44e082732c026a211"), 
+            "videoChapterVideo" : "1542083442862_lec2_cdap_chapter-001.mp4", 
+            "videoChapterText" : "well this machine learning you probably use it dozens of times a day without even knowing it each time you do a web search on Google or being that works so well because their machine learning "
+        }, 
+        {
+            "_id" : ObjectId("5bea54a44e082732c026a210"), 
+            "videoChapterVideo" : "1542083442862_lec2_cdap_chapter-002.mp4", 
+            "videoChapterText" : "software has figured out how to rank web pages when Facebook apples photo application recognizes your friends your pictures that's also machine learning each time you via email and the spam filters saves you from having to Wade through tons of spam again that's because your computer has "
+        }, 
+        {
+            "_id" : ObjectId("5bea54a44e082732c026a20f"), 
+            "videoChapterVideo" : "1542083442862_lec2_cdap_chapter-003.mp4", 
+            "videoChapterText" : "earns to distinguish spam from non spam email so that such "
+        }, 
+        {
+            "_id" : ObjectId("5bea54a44e082732c026a20e"), 
+            "videoChapterVideo" : "1542083442862_lec2_cdap_chapter-004.mp4", 
+            "videoChapterText" : "in the reading is a science of getting computers to learn without being explicitly programs one of the research projects that I'm working on is getting robots to tidy up the holes how to go about doing that well we can do is have the robot watches you demonstrate the task and then from that the robot condemned why "
+        }, 
+        {
+            "_id" : ObjectId("5bea54a44e082732c026a20d"), 
+            "videoChapterVideo" : "1542083442862_lec2_cdap_chapter-005.mp4", 
+            "videoChapterText" : "what options you pick up and where to put them and try to do the same thing even when you on there for me one the reasons I'm excited about this C. A. R. I. O. artificial intelligence problem building truly intelligent machines "
+        }, 
+        {
+            "_id" : ObjectId("5bea54a44e082732c026a20c"), 
+            "videoChapterVideo" : "1542083442862_lec2_cdap_chapter-006.mp4", 
+            "videoChapterText" : "can do just about anything to you I can do many scientists think the best way to make progress on this through learning algorithms called neural networks which mimic how the human brain works and I'll teach about that "
+        }
+    ], 
+    "subject" : "cdap", 
+    "videoName" : "lecture 1", 
+    "lectureVideo" : "1542083442862_lec2_cdap.mp4", 
+    "dateTime" : "Tue Nov 13 2018 10:00:42 GMT+0530 (Sri Lanka Standard Time)", 
+    "status" : "processed", 
+    "__v" : NumberInt(0)
+}

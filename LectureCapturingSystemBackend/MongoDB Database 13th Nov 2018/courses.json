@@ -1,0 +1,81 @@
+{ 
+    "_id" : ObjectId("5be079d7729a4c3908d96dbf"), 
+    "created" : ISODate("2018-11-05T17:10:06.023+0000"), 
+    "coursename" : "SSD", 
+    "duration" : "4", 
+    "modulecode" : "SE3040", 
+    "credits" : "4", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5be07a38c3b2bb26cc59c088"), 
+    "created" : ISODate("2018-11-05T17:12:21.764+0000"), 
+    "coursename" : "EAD", 
+    "duration" : "4", 
+    "modulecode" : "SE3055", 
+    "credits" : "4", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5be07b2309c0d8206c2becfd"), 
+    "created" : ISODate("2018-11-05T17:17:05.153+0000"), 
+    "coursename" : "DS", 
+    "duration" : "4", 
+    "modulecode" : "SE2020", 
+    "credits" : "3", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5be07ba909c0d8206c2becfe"), 
+    "created" : ISODate("2018-11-05T17:17:05.153+0000"), 
+    "coursename" : "AF", 
+    "duration" : "4", 
+    "modulecode" : "SE2025", 
+    "credits" : "3", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5be07c170c2c410938aa7762"), 
+    "created" : ISODate("2018-11-05T17:21:13.636+0000"), 
+    "coursename" : "SEIII", 
+    "duration" : "4", 
+    "modulecode" : "SE3333", 
+    "credits" : "4", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5be07c8014da173b84daf733"), 
+    "created" : ISODate("2018-11-05T17:22:56.564+0000"), 
+    "coursename" : "DBMS", 
+    "duration" : "4", 
+    "modulecode" : "SE9999", 
+    "credits" : "4", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5be07ca28e98ee08401ea43d"), 
+    "created" : ISODate("2018-11-05T17:23:37.850+0000"), 
+    "coursename" : "OOP", 
+    "duration" : "4", 
+    "modulecode" : "SE9997", 
+    "credits" : "4", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5be159a5747d874ce491c680"), 
+    "created" : ISODate("2018-11-06T09:05:34.392+0000"), 
+    "coursename" : "DCSN", 
+    "duration" : "5", 
+    "modulecode" : "IT2010", 
+    "credits" : "4", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5be26f4d84808a2cb06858c6"), 
+    "created" : ISODate("2018-11-07T04:50:50.957+0000"), 
+    "coursename" : "ITP", 
+    "duration" : "4", 
+    "modulecode" : "SE4046", 
+    "credits" : "1", 
+    "__v" : NumberInt(0)
+}
